@@ -1,5 +1,31 @@
 # Data Analysis Report: Oktoberfest Data
 
+## Table of Contents
+
+- [Data Analysis Report: Festival Data](#data-analysis-report-festival-data)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Clone](#clone)
+  - [Table of Contents](#table-of-contents)
+- [Data Overview](#data-overview)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Trends Over Time](#trends-over-time)
+  - [Correlation Heatmap](#correlation-heatmap)
+  - [Comparative Analysis](#comparative-analysis)
+  - [Duration vs. Guests](#duration-vs-guests)
+  - [Yearly Trends](#yearly-trends)
+  - [Average Metrics](#average-metrics)
+  - [Comparative Bar Charts](#comparative-bar-charts)
+  - [Histograms](#histograms)
+- [Regression Analysis](#regression-analysis)
+  - [Beer Price vs. Beer Consumption](#beer-price-vs-beer-consumption)
+  - [Roast Chicken Price vs. Roast Chicken Consumption](#roast-chicken-price-vs-roast-chicken-consumption)
+- [Cluster Analysis](#cluster-analysis)
+- [Anomaly Detection](#anomaly-detection)
+- [Hypothesis Testing](#hypothesis-testing)
+- [Price Difference Analysis](#price-difference-analysis)
+- [Conclusion](#conclusion)
+
 ## Introduction
 
 This report presents the findings of our data analysis project focused on festival data. The dataset contains information about various aspects of festivals spanning multiple years, including beer prices, beer consumption, roast chicken prices, roast chicken consumption, and guest counts. The goal of this analysis is to explore trends, relationships, and insights within the dataset.
@@ -21,7 +47,7 @@ The festival dataset consists of the following columns:
 
 ### Trends Over Time
 
-We started by analyzing the trends of various festival metrics over time. The following observations were made:
+I started by analyzing the trends of various festival metrics over time. The following observations were made:
 
 - **Guests vs. Year**: The total number of guests attending the festival has generally increased over the years, with a few fluctuations.
 - **Beer Price vs. Beer Consumption**: There appears to be a negative correlation between beer price and beer consumption, suggesting that as beer prices increase, beer consumption decreases.
@@ -29,15 +55,15 @@ We started by analyzing the trends of various festival metrics over time. The fo
 
 ### Correlation Heatmap
 
-We created a correlation heatmap to visualize the relationships between different variables. The heatmap confirmed the observed negative correlations and highlighted strong positive correlations between certain variables.
+I created a correlation heatmap to visualize the relationships between different variables. The heatmap confirmed the observed negative correlations and highlighted strong positive correlations between certain variables.
 
 ### Comparative Analysis
 
-We conducted a comparative analysis between beer and roast chicken metrics. Scatter plots were used to analyze the relationship between prices and consumption for both beer and roast chicken. Regression lines were added to visualize the trend.
+I conducted a comparative analysis between beer and roast chicken metrics. Scatter plots were used to analyze the relationship between prices and consumption for both beer and roast chicken. Regression lines were added to visualize the trend.
 
 ### Duration vs. Guests
 
-To analyze the impact of festival duration on the number of guests, we conducted a correlation analysis. It was observed that there is a mild positive correlation between festival duration and the total number of guests.
+To analyze the impact of festival duration on the number of guests, I conducted a correlation analysis. It was observed that there is a mild positive correlation between festival duration and the total number of guests.
 
 ### Yearly Trends
 
@@ -45,7 +71,7 @@ Line plots were used to showcase how beer price, beer consumption, roast chicken
 
 ### Average Metrics
 
-We calculated and plotted the average values for metrics such as beer price, beer consumption, roast chicken price, and roast chicken consumption over time. This provided a clearer picture of the central tendencies in these metrics.
+I calculated and plotted the average values for metrics such as beer price, beer consumption, roast chicken price, and roast chicken consumption over time. This provided a clearer picture of the central tendencies in these metrics.
 
 ### Comparative Bar Charts
 
@@ -59,19 +85,19 @@ Histograms were generated to explore the distribution of variables such as `gues
 
 ### Beer Price vs. Beer Consumption
 
-We conducted regression analysis to predict beer consumption based on beer price. The regression model showed a negative relationship between these variables, suggesting that higher beer prices result in lower consumption.
+I conducted regression analysis to predict beer consumption based on beer price. The regression model showed a negative relationship between these variables, suggesting that higher beer prices result in lower consumption.
 
 ### Roast Chicken Price vs. Roast Chicken Consumption
 
-Similar to the beer analysis, we performed regression analysis for roast chicken price and consumption. The results indicated a negative relationship, with higher prices leading to lower consumption.
+Similar to the beer analysis, I performed regression analysis for roast chicken price and consumption. The results indicated a negative relationship, with higher prices leading to lower consumption.
 
 ## Cluster Analysis
 
-We explored potential clusters or groups within the dataset using clustering algorithms. However, the analysis did not reveal distinct clusters, indicating that the data may not naturally form distinct groups.
+I explored potential clusters or groups within the dataset using clustering algorithms. However, the analysis did not reveal distinct clusters, indicating that the data may not naturally form distinct groups.
 
 ## Anomaly Detection
 
-We identified potential outliers or anomalies in the dataset. Anomalies may indicate unusual events or errors, and further investigation may be required to understand their causes.
+I identified potential outliers or anomalies in the dataset. Anomalies may indicate unusual events or errors, and further investigation may be required to understand their causes.
 
 ## Hypothesis Testing
 
@@ -84,8 +110,8 @@ The results of these tests can be found in the respective sections of the report
 
 ## Price Difference Analysis
 
-We calculated and visualized the price difference between festival beer prices and consumer beer prices. This analysis allowed us to understand how festival prices compared to consumer prices over time.
+I calculated and visualized the price difference between festival beer prices and consumer beer prices. This analysis allowed us to understand how festival prices compared to consumer prices over time.
 
 ## Conclusion
 
-In conclusion, this data analysis project provided valuable insights into festival data. We observed trends, correlations, and conducted hypothesis testing to gain a better understanding of the dataset. Additionally, we explored the relationship between festival prices and consumer prices
+In conclusion, this data analysis project provided valuable insights into festival data. I observed trends, correlations, and conducted hypothesis testing to gain a better understanding of the dataset. Additionally, I explored the relationship between festival prices and consumer prices.
