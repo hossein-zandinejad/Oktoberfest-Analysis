@@ -1,11 +1,13 @@
 # Data Analysis Report: Oktoberfest Data
 
+![Genres](/Codes/genres.png)
+
 ## Table of Contents
 
 - [Data Analysis Report: Festival Data](#data-analysis-report-festival-data)
   - [Introduction](#introduction)
   - [Installation](#installation)
-  - [Clone](#clone)
+  - [Clone this Repository](#clone-this-repository)
 - [Data Overview](#data-overview)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
   - [Trends Over Time](#trends-over-time)
@@ -31,7 +33,24 @@ This report presents the findings of our data analysis project focused on festiv
 
 ## Installation
 
-## Clone
+To run this project, you will need to have the following libraries and dependencies installed. You can install them using pip or conda.
+
+```bash
+pip install Pandas
+pip install Numpy
+pip install scikit-learn
+pip install Plotly
+pip install Statsmodels
+pip install Scipy
+```
+
+## Clone this Repository
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone https://github.com/hossein-zandinejad/Oktoberfest-Analysis.git
+```
 
 ## Data Overview
 
