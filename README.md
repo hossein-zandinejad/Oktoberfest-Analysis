@@ -1,4 +1,4 @@
-# Data Analysis Report: Oktoberfest Data
+# Oktoberfest Analysis
 
 ![Genres](/Codes/genres.png)
 
