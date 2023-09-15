@@ -67,6 +67,8 @@ The festival dataset consists of the following columns:
 
 ## Exploratory Data Analysis (EDA)
 
+![oktfest](/plots/oktfest.jpeg)
+
 ### Trends Over Time
 
 I started by analyzing the trends of various festival metrics over time. The following observations were made:
