@@ -138,4 +138,4 @@ I calculated and visualized the price difference between festival beer prices an
 
 ## Conclusion
 
-In conclusion, this data analysis project provided valuable insights into festival data. I observed trends, correlations, and conducted hypothesis testing to gain a better understanding of the dataset. Additionally, I explored the relationship between festival prices and consumer prices.
+In conclusion, this data analysis project provided valuable insights into festival data. I observed trends, and correlations, and conducted hypothesis testing to gain a better understanding of the dataset. Additionally, I explored the relationship between festival prices and consumer prices.
