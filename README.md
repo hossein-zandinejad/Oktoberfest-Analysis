@@ -6,7 +6,6 @@
   - [Introduction](#introduction)
   - [Installation](#installation)
   - [Clone](#clone)
-  - [Table of Contents](#table-of-contents)
 - [Data Overview](#data-overview)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
   - [Trends Over Time](#trends-over-time)
@@ -29,6 +28,10 @@
 ## Introduction
 
 This report presents the findings of our data analysis project focused on festival data. The dataset contains information about various aspects of festivals spanning multiple years, including beer prices, beer consumption, roast chicken prices, roast chicken consumption, and guest counts. The goal of this analysis is to explore trends, relationships, and insights within the dataset.
+
+## Installation
+
+## Clone
 
 ## Data Overview
 
