@@ -67,7 +67,7 @@ The festival dataset consists of the following columns:
 
 ## Exploratory Data Analysis (EDA)
 
-![oktfest](/plots/oktfest.jpeg)
+![oktfest](/plots/oktfest.png)
 
 ### Trends Over Time
 
