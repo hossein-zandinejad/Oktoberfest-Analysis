@@ -1,6 +1,6 @@
 # Oktoberfest Analysis
 
-![Oktoberfest](/plots/oktoberfest2.jpeg)
+![oktoberfest](/plots/oktoberfest2.jpeg)
 
 ## Table of Contents
 
