@@ -1,6 +1,6 @@
 # Oktoberfest Analysis
 
-![Genres](/Codes/genres.png)
+![Oktoberfest](/plots/oktoberfest2.jpeg)
 
 ## Table of Contents
 
